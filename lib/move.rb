@@ -14,4 +14,3 @@ def input_to_index(input)
 end
 
   board[index] = value
-

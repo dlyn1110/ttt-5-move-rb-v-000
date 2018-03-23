@@ -8,6 +8,6 @@ end
 
 # codef input_to_index(user_input)
 
-def input_to_index(user_input)
-  user_input = "1".to_i
+def input_to_index(input)
+  input = input.to_i
 end
